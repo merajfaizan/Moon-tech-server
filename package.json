@@ -1,9 +1,9 @@
 {
-  "name": "express-mongodb-vercel",
+  "name": "moon-tech-server",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "author": "Mir Hussain",
+  "author": "Meraj Faizan",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
@@ -16,5 +16,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "description": ""
 }
